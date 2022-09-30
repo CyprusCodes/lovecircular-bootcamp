@@ -1,3 +1,3 @@
 ## Example-Course
 
-- [Example Student](/example/example.md)
+- [Example Student](/example-cohort/example.md)
